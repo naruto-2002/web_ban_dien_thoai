@@ -1,0 +1,1 @@
+// window.location.href = "/DE_9_QLSTDM_war/home";

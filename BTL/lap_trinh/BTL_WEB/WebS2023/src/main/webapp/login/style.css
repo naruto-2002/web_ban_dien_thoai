@@ -1,0 +1,60 @@
+#login {
+    width: 30%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255,255,255,.25);
+}
+
+.input_data {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.input_data input {
+    width: 100%;
+    padding: 10px 10px 10px 30px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.input_data i {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #aaa;
+}
+
+#login .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.title p {
+    margin: 0 0 20px 0;
+    font-size: 27px;
+}
+
+.login_btn {
+    background-color: green;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    border: none;
+
+}
+
+body {
+    background-image: url(https://1.bp.blogspot.com/-etWWVd-NueM/XqsA2gZwW3I/AAAAAAAAQ94/ewDv4H2YWxoUYQpF1wxcZcfWn3N4TOFYgCLcBGAsYHQ/s1600/11def919f56a44204f7f9a8549bbaf029683ea4c.jpg);
+    background-size: cover;
+}
